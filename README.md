@@ -1,2 +1,7 @@
 # Proiect-POO-1
-Project OOP for us 6
+Tanasuica - 31
+Patrascu - 32
+Sinem - 33
+Ivanov - 34
+Krylova - 35
+Stegaru - 36
