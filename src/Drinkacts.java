@@ -7,6 +7,7 @@
  *
  * @author User
  */
+
 public interface Drinkacts {
     double getPrice(); //price + 50 cent warranty
     char Quickdesc(); //prints a string with a description of the name, size of bottle (ml) and base price (without warranty)  
