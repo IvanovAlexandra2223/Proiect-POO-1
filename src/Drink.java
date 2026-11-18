@@ -41,7 +41,7 @@ public class Drink implements Drinkacts {
    return this.price + fee;}
       @Override
    public char Quickdesc(){
-       char str = 'T';
+       char str = 'T'; //placeholder
        return (str);
    }
   }
