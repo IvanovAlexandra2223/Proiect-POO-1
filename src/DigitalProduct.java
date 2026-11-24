@@ -81,7 +81,7 @@ public class DigitalProduct extends Product {
         this.licenseKey = licenseKey;
     }
 
-//
+
     @Override
     public String toString() {
         return String.format(

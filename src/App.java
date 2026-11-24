@@ -46,7 +46,7 @@ public class App {
             }
         }
 
-
+//
         Object[] vectorDigitalProduct = {
                 new DigitalProduct("Photoshop", 350.0, "Windows", "Engleza", "EXE", 3200.5, "PS-1045-1982"),
                 new DigitalProduct("Antivirus", 120.0, "Android", "Romana", "APK", 85.0, "AV-7731-0042"),
