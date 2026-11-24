@@ -13,7 +13,7 @@ public class App {
 
 
 
-            //WEEK 2
+        //WEEK 2
         PhysicalProduct f1 = new PhysicalProduct();
         PhysicalProduct f2 = new PhysicalProduct("Laptop", 3200.0, "argintiu", "aluminiu", 1.8, 24, 12);
         PhysicalProduct f3 = new PhysicalProduct(f2);
