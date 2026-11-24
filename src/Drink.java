@@ -4,7 +4,7 @@ clasă părinte din care să fie derivate următoarele două clase."
 
 Clasa Parinte
  */
-public class Drink implements Drinkacts {
+public class Drink implements ProductOperations {
     protected double price;
     private String name;
     private int mililiters;
@@ -36,12 +36,12 @@ public class Drink implements Drinkacts {
     
         }
     @Override
-   public double getPrice(){
+   public double calculatePrice(){
        double fee = 0.50;
    return this.price + fee;}
       @Override
-   public char Quickdesc(){
-       char str = 'T'; //placeholder
-       return (str);
+   public void printDetails(){
+       char str = 'T';
+       
    }
   }
